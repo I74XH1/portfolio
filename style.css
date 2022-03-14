@@ -1,0 +1,69 @@
+
+
+#title {
+	 text-align: center;
+	 font-weight: bolder;
+	 text-shadow: lightslategray;
+	 font-family: 'Gochi Hand';
+     font-size: 10rem;
+	 border-bottom: black 20px;
+}
+
+img {
+	background: #d5def1;
+	border-radius: 100%;
+	box-shadow: inset 9.91px 9.91px 15px #C2CADB, inset -9.91px -9.91px 15px #E8F2FF;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	width: 200px;
+	padding: 4mm;
+	height: 200px;
+}
+
+body {
+	background-image: radial-gradient(lightblue, lightpink);
+	height: auto;
+	width: auto;
+	display: flexbox;
+	align-items: center;
+}
+
+h2 {
+	text-align: center;
+    font-family: 'Gochi Hand';
+	font-size: 7.5em;
+}
+
+h3 {
+	font-family: 'Fredoka One';
+	font-size: 2rem;
+	text-align: center;
+}
+
+.container {
+	background: linear-gradient(145deg, #F8FFFF, #ACB3C3);
+	border-radius: 5%;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-top: 150px;
+	padding-bottom: 30px;
+	display: block;
+	margin-left: 20%;
+	margin-right: 20%;
+	box-shadow: 13.21px 13.21px 24px #A7AEBD, -13.21px -13.21px 24px #FDFFFF;
+}
+
+
+footer {
+	text-align: center;
+	font-size: large;
+	margin: 50px;
+	font-weight: bolder;
+	font-family: cursive;
+}
+
+#footer  {
+	text-decoration: none 
+
+}
